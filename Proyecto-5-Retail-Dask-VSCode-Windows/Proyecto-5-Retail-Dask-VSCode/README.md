@@ -140,5 +140,3 @@ Proyecto-5-Retail-Dask-VSCode/
 .\.venv\Scripts\python.exe -m pip install -r requirements-dev.txt
 .\.venv\Scripts\python.exe -m pytest -q
 ```
-
-**Nota sobre el notebook:** `notebooks/Proyecto_5_Retail_Dask_Colab_OPTIMIZACION.ipynb` se conserva como versión histórica para Colab. El flujo actualizado principal es `main.py`, `optimizacion.py` y `menu.py`. No se requiere GPU ni Google Colab para este proyecto.
