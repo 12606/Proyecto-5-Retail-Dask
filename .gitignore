@@ -1,0 +1,10 @@
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+.venv/
+env/
+.DS_Store
+data/*.parquet
+data/*.csv
+benchmarks/*.csv
+benchmarks/graficas/*.png
