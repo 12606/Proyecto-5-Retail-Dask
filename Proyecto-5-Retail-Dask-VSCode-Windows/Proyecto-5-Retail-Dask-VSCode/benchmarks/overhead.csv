@@ -1,0 +1,2 @@
+series,dias_entrenamiento,horizonte,preprocesamiento_s,dask_delayed_s,dask_dataframe_s,overhead_control_s,numero_lotes,arranque_cluster_s,workers,hilos_por_worker,tamano_lote
+100,120,14,0.21818029996939003,2.0521569999400526,1.467473000055179,0.011825100053101778,2,4.723227399867028,4,1,50

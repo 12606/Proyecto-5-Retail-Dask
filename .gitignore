@@ -8,3 +8,13 @@ data/*.parquet
 data/*.csv
 benchmarks/*.csv
 benchmarks/graficas/*.png
+.venv/
+**/.venv/
+
+# Archivos temporales de Python
+__pycache__/
+*.pyc
+.pytest_cache/
+
+# Configuración local del editor
+.vscode/

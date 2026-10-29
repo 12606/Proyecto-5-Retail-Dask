@@ -1,0 +1,11 @@
+.venv/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.ipynb_checkpoints/
+.vscode/.ropeproject
+.DS_Store
+Thumbs.db
+# Archivos grandes/regenerables; exportar resultados explícitamente si se quieren versionar
+data/*.parquet
+# NOTA: se permiten CSV y PNG en benchmarks para documentar experimentos.
